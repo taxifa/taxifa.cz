@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 248" role="img" aria-labelledby="title desc">
+  <title id="title">Taxifa</title>
+  <desc id="desc">Logo Taxifa s modrým monogramem T a i a zlatým detailem ve tvaru listu.</desc>
+  <defs>
+    <linearGradient id="tMain" x1="25" y1="37" x2="147" y2="218" gradientUnits="userSpaceOnUse"><stop stop-color="#39A8FF"/><stop offset=".48" stop-color="#1268FF"/><stop offset="1" stop-color="#0647D9"/></linearGradient>
+    <linearGradient id="iMain" x1="144" y1="91" x2="181" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#63BDFF"/><stop offset="1" stop-color="#0750E7"/></linearGradient>
+    <linearGradient id="gold" x1="142" y1="75" x2="198" y2="20" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB91F"/><stop offset=".55" stop-color="#FFD65A"/><stop offset="1" stop-color="#FFF0A4"/></linearGradient>
+  </defs>
+  <g transform="translate(4 4)">
+    <path fill="url(#tMain)" d="M20 39c0-9.9 8.1-18 18-18h114v44c0 9.9-8.1 18-18 18h-18v121c0 10.5-8.5 19-19 19H78c-10.5 0-19-8.5-19-19V83H38c-9.9 0-18-8.1-18-18V39Z"/>
+    <path fill="#84CAFF" d="M20 39c0-9.9 8.1-18 18-18h114v44c0 6.7-3.7 12.7-9.2 15.8L79.3 21H38c-9.9 0-18 8.1-18 18Z" opacity=".52"/>
+    <rect x="132" y="88" width="37" height="135" rx="18.5" fill="url(#iMain)"/>
+    <path fill="url(#gold)" d="M130 79c.7-34.4 22.4-58.7 58.4-60-1.1 36.8-21.4 60-58.4 60Z"/>
+  </g>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="760" letter-spacing="-8">
+    <text x="240" y="190" fill="#F7FAFF" font-size="164">tax</text>
+    <text x="470" y="190" fill="#1880FF" font-size="190" font-weight="850">i</text>
+    <text x="518" y="190" fill="#1880FF" font-size="164">fa</text>
+  </g>
+</svg>

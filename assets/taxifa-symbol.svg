@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 144" role="img" aria-labelledby="title desc">
+  <title id="title">Symbol Taxifa</title>
+  <desc id="desc">Elektricky modrý symbol T a i se zlatým detailem ve tvaru listu.</desc>
+  <defs>
+    <linearGradient id="tMain" x1="12" y1="18" x2="78" y2="132" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#39A8FF"/><stop offset=".48" stop-color="#1268FF"/><stop offset="1" stop-color="#0647D9"/></linearGradient>
+    <linearGradient id="tFacet" x1="20" y1="22" x2="86" y2="76" gradientUnits="userSpaceOnUse"><stop stop-color="#8DCAFF" stop-opacity=".82"/><stop offset="1" stop-color="#287DFF" stop-opacity=".12"/></linearGradient>
+    <linearGradient id="iMain" x1="83" y1="49" x2="105" y2="132" gradientUnits="userSpaceOnUse"><stop stop-color="#63BDFF"/><stop offset=".62" stop-color="#1877FF"/><stop offset="1" stop-color="#0750E7"/></linearGradient>
+    <linearGradient id="gold" x1="82" y1="38" x2="117" y2="4" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB91F"/><stop offset=".52" stop-color="#FFD65A"/><stop offset="1" stop-color="#FFF0A4"/></linearGradient>
+  </defs>
+  <path fill="url(#tMain)" d="M13 23c0-6.1 4.9-11 11-11h70v27c0 6.1-4.9 11-11 11H72v74c0 6.6-5.4 12-12 12H48c-6.6 0-12-5.4-12-12V50H24c-6.1 0-11-4.9-11-11V23Z"/>
+  <path fill="url(#tFacet)" d="M13 23c0-6.1 4.9-11 11-11h70v27c0 4.1-2.3 7.8-5.7 9.7L49.5 12H24c-6.1 0-11 4.9-11 11Z" opacity=".9"/>
+  <path fill="#0A5CF2" d="M36 50h36v18L36 44.5V50Z" opacity=".72"/>
+  <rect x="82" y="53" width="23" height="83" rx="11.5" fill="url(#iMain)"/>
+  <path fill="url(#gold)" d="M81 42C81.4 20.8 94.8 5.8 117 5c-.7 22.7-13.2 37-36 37Z"/>
+  <path fill="#FFF4B9" d="M86 35.8C92.4 23 101.5 14.2 114.5 8.5c-13.4 2.3-23.1 10.6-28.5 27.3Z" opacity=".5"/>
+</svg>
